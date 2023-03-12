@@ -9,3 +9,9 @@
 <p align="center"> 
     Default Settings 
 </p>
+
+In this code, I assumed my five-bar linkage working mode as (+,+).
+<p align="center" width="100%">
+    <img width="50%" src="https://raw.githubusercontent.com/mertgulgel/Inverse-Kinematics-Five-Bar/main/Figure%20ScreenShot/workingmode.jpg">
+    <img width="50%" src="https://raw.githubusercontent.com/mertgulgel/Inverse-Kinematics-Five-Bar/main/Figure%20ScreenShot/workingmodetypes.png">
+</p>
